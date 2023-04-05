@@ -2,7 +2,7 @@
 
 I am currently working as a Fullstack Developer at a financial company. My main task is to maintain the company's financial system that was written in Java/JavaFX (fontend) and Python (backend). Aside of maintaining this system, I also have to migrate some websites to a newer version of PHP. When I say Fullstack I am not only mean frontend and backend, but also server management. The company has linux servers therefore I gained some skills in linux environments.
 
-I love to spend my spare time with coding, as my Github profile shows, I have uploaded some of my work. Most of them are discontinued, but I have one that I currently work on.
+I love to spend my spare time with coding, as my Github profile shows. I have uploaded some of my work, and most of them are discontinued, but I have one that I currently work on.
 
 ### 👨‍💻 My tech stack
 I believe that language has to depend on the task rather than on comfort zone.
