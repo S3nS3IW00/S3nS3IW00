@@ -1,25 +1,36 @@
-### Hi there 👋
+## Hi 👋
 
-I am currently working as a Full-Stack Developer at a financial company. My main task is to maintain the company’s financial system, which was written in Java/JavaFX (frontend) and Python (backend). Besides maintaining this system, I also have to migrate some websites to a newer version of PHP.
+I’m a **Full-Stack Software Developer** working in the **financial sector**, with experience in developing, maintaining, and operating business-critical systems.
 
-When I say Full-Stack, I don’t just mean frontend and backend but also server management. The company uses Linux servers, so I have gained experience working in Linux environments.
+At my current role, I work on a financial and debt-management system built with **Java (JavaFX)** on the frontend and **Python (Flask, SQLAlchemy)** on the backend. My responsibilities include backend and frontend development, REST API design, database work, and **Linux-based server environments**, as well as maintaining and upgrading legacy PHP applications.
 
-I love spending my spare time coding, as my GitHub profile shows. I have uploaded some of my work — most of them are discontinued, but I have one that I am currently working on.
+I enjoy working across the full stack, from application logic to infrastructure, and I value choosing technologies based on the problem rather than sticking to a single toolset.
 
-### 👨‍💻 My tech stack
-I believe that technology should be chosen based on the task rather than staying in a comfort zone.
-#### Java
-My first programming language — I started learning it because of Minecraft servers. I also have some experience with Spring Boot.
+Here on GitHub, you’ll find a mix of **active and archived projects**, including libraries, desktop applications, and backend services, reflecting both professional and personal development work.
 
-#### Flutter
-I love how it makes mobile development so easy.
+---
 
-#### Python
-Not my favorite, to be honest, but I have to deal with it daily, so I have gained experience in it as well.
+### 👨‍💻 Tech Stack
 
-#### Lua
-I started learning it because of GTA:V. I wanted to create a server with my friends, and for that, learning Lua was essential.
-I only know the basics necessary to develop a GTA:V server using the FiveM framework.
+#### Backend
+- Java
+- Python (Flask, SQLAlchemy)
+- REST API design and implementation
+- Spring Boot (basic experience)
 
-#### C#
-I used to work on school projects in WPF, which is a C# framework. My thesis was a game that was also written in C# and WPF.
+#### Frontend
+- JavaFX
+- Flutter
+
+#### Databases
+- SQL (relational databases)
+- NoSQL basics (Firestore)
+
+#### Infrastructure
+- Linux server environments
+- Git
+- CI/CD fundamentals
+
+#### Other
+- C# (WPF – academic projects, thesis work)
+- Lua (basic experience, scripting)
