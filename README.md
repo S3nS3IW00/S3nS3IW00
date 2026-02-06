@@ -13,22 +13,23 @@ Here on GitHub, you’ll find a mix of **active and archived projects**, includi
 ### 👨‍💻 Tech Stack
 
 #### Backend
-- Java
+- Java (Spring Boot)
 - Python (Flask, SQLAlchemy)
 - REST API design and implementation
-- Spring Boot (basic experience)
 
 #### Frontend
+- React (TypeScript, Next.js, MUI)
+- Flutter (iOS and Andoid)
 - JavaFX
-- Flutter
 
 #### Databases
 - SQL (relational databases)
-- NoSQL basics (Firestore)
+- NoSQL basics (Redis, Firestore)
 
 #### Infrastructure
 - Linux server environments
 - Git
+- Docker
 - CI/CD fundamentals
 
 #### Other
